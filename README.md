@@ -1,4 +1,4 @@
-# Hi, I'm <Akshat Upadhyay>! 👋
+# Hi, I'm Akshat Upadhyay! 👋
 
 I’m a Software Engineer with 2 years of professional experience developing scalable, high-performance applications across cloud, web, and AI-driven ecosystems.
 
