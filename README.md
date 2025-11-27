@@ -52,10 +52,14 @@ Skilled in Java, Spring Boot, React, TypeScript, and AWS, with hands-on exposure
 <img src="https://skillicons.dev/icons?i=postman,vscode" />
 
 
- ## 🏆 Achievements
+ ## 🏆 Education & Achievements
 
+- 📜 Published a paper — *Generating Summaries of Customer Reviews: A Hybrid Model Approach*  
+  🔗 [Read the paper](https://ieeexplore.ieee.org/document/10581235)
 - 🏅 Graduated with "Gold Medal" for outstanding academic performance (Batch of 2020–2024)
-- 📜 Awarded Scholarship for Academic Excellence throughout the program.
+- 🧰 Awarded Scholarship for Academic Excellence throughout the program.
+
+
 
 ![Akshat66's Stats](https://github-readme-stats.vercel.app/api?username=Akshat66&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
