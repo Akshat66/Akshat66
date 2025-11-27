@@ -22,10 +22,7 @@ Skilled in Java, Spring Boot, React, TypeScript, and AWS, with hands-on exposure
 ## Skills ⚙️
 
 #### Languages
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/Akshat66)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Akshat66)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)](https://github.com/Akshat66)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/Akshat66)
+<img src="https://skillicons.dev/icons?i=java,python,typescript,javascript" />
 
 #### Databases
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/Akshat66)
