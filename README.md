@@ -4,7 +4,7 @@ I’m a Software Engineer with 2 years of professional experience developing sca
 
 Skilled in Java, Spring Boot, React, TypeScript, and AWS, with hands-on exposure to microservices, containerization (Docker/Kubernetes), and modern AI frameworks like LangChain and OpenAI APIs. My experience spans designing backend architectures, deploying cloud-native solutions, and experimenting with intelligent systems that bridge software engineering and machine learning.
 
-![<Akshat66>'s Stats](https://github-readme-stats.vercel.app/api?username=<Akshat66>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Akshat66's Stats](https://github-readme-stats.vercel.app/api?username=Akshat66&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
