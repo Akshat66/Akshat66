@@ -25,39 +25,22 @@ Skilled in Java, Spring Boot, React, TypeScript, and AWS, with hands-on exposure
 <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript" />
 
 #### Databases
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/Akshat66)
-[![MySQL](https://img.shields.io/badge/MySQL-3E6E93?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Akshat66)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://github.com/Akshat66)
-[![MongoDB](https://img.shields.io/badge/MongoDB-0FA14C?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/Akshat66)
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
 
 #### Front-End & Mobile Frameworks
-[![React](https://img.shields.io/badge/React-282c34?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/Akshat66)
-[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/Akshat66)
-[![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://github.com/Akshat66)
-[![Angular](https://img.shields.io/badge/Angular-DD0330?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/Akshat66)
-[![Flutter](https://img.shields.io/badge/Flutter-046DDE?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/Akshat66)
+<img src="https://skillicons.dev/icons?i=react,reactnative,angular,vue,flutter" />
 
 #### Back-End & Server-Side
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://github.com/Akshat66)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/Akshat66)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://github.com/Akshat66)
-[![FastAPI](https://img.shields.io/badge/FastAPI-05998b?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/Akshat66)
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi" />
 
 #### AI, GenAI & ML
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/Akshat66)
-[![LangChain](https://img.shields.io/badge/LangChain-1A1A1A?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Akshat66)
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/Akshat66)
+<img src="https://skillicons.dev/icons?i=tensorflow,langchain,openAI" />)
 
 #### Cloud & DevOps
-[![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/Akshat66)
-[![Docker](https://img.shields.io/badge/Docker-0091E2?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Akshat66)
-[![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://github.com/Akshat66)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/Akshat66)
+<img src="https://skillicons.dev/icons?i=aws,docker,kafka,github,git" />
 
 #### Tools
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://github.com/Akshat66)
-[![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/Akshat66)
-[![Git](https://img.shields.io/badge/Git-F14E24?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Akshat66)
+<img src="https://skillicons.dev/icons?i=postman,vscode" />
 
 
  ## 🏆 Achievements
