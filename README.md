@@ -29,15 +29,21 @@ Skilled in Java, Spring Boot, React, TypeScript, and AWS, with hands-on exposure
 
 #### Front-End & Mobile Frameworks
 <img src="https://skillicons.dev/icons?i=react,angular,vue,flutter" />
-<!-- React Native fallback badge -->
-  <img height="48" src="https://cdn.simpleicons.org/react/61DAFB" title="React Native (Fallback)" />
-</p>
 
 #### Back-End & Server-Side
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi" />
 
 #### AI, GenAI & ML
-<img src="https://skillicons.dev/icons?i=tensorflow,langchain,openAI" />)
+<p>
+  <!-- TensorFlow -->
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+
+  <!-- OpenAI custom -->
+  <img height="48" src="https://cdn.simpleicons.org/openai/412991" title="OpenAI"/>
+
+  <!-- LangChain custom -->
+  <img height="48" src="https://cdn.simpleicons.org/python/3776AB" title="LangChain"/>
+</p>
 
 #### Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=aws,docker,kafka,github,git" />
