@@ -28,7 +28,10 @@ Skilled in Java, Spring Boot, React, TypeScript, and AWS, with hands-on exposure
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
 
 #### Front-End & Mobile Frameworks
-<img src="https://skillicons.dev/icons?i=react,reactnative,angular,vue,flutter" />
+<img src="https://skillicons.dev/icons?i=react,angular,vue,flutter" />
+<!-- React Native fallback badge -->
+  <img height="48" src="https://cdn.simpleicons.org/react/61DAFB" title="React Native (Fallback)" />
+</p>
 
 #### Back-End & Server-Side
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi" />
